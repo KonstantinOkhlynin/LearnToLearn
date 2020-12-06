@@ -4,4 +4,4 @@
 
    [![Header](https://github.com/KonstantinOkhlynin/LearnToLearn/blob/master/assets/1.svg)](https://github.com/KonstantinOkhlynin/LearnToLearn/blob/master/README.EN.MD)
    [![Header](https://github.com/KonstantinOkhlynin/LearnToLearn/blob/master/assets/2.svg)](https://konstantinokhlynin.github.io/LearnToLearn/)
-    ![Header](https://github.com/KonstantinOkhlynin/LearnToLearn/blob/master/assets/3.svg)
+     ![Header](https://github.com/KonstantinOkhlynin/LearnToLearn/blob/master/assets/3.svg)
