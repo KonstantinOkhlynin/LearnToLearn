@@ -1,12 +1,19 @@
     ![Header](https://github.com/KonstantinOkhlynin/KonstantinOkhlynin/blob/main/assets/Logo.svg)
     [![Header](https://github.com/KonstantinOkhlynin/KonstantinOkhlynin/blob/main/assets/GoToTheWebsiteEng.svg)](https://konstantinokhlynin.github.io/LearnToLearn)
 # Learn to learn
-### This is a small page, my very first site, my starting point in mastering web development. The name of this page is chosen for a reason, it speaks for itself, to learn how to overcome the difficulties of development, to look for solutions and not to be afraid of the tasks set.
-### Completed work
-- Wrote HTML markup
-- Enabled and wrote CSS styles
-- Worked with Flexbox
-- Made a small animation 
-- Enabled fonts
-- Used BEM methodology for writing classes
-- Enabled iframe
+### My very first website. It was checked on the Praktikum.Yandex in the direction of web development. The site says that people always learn something, but you also need to be able to learn, and not everyone knows this skill. The site provides various techniques, methods and principles of training, provides interesting facts.
+## Goal:
+### The goal of this project is to learn and consolidate the basics of layout in the HTML5 markup language. Styling, animation, and positioning of page objects in CSS3. Study of BEM methodology.
+## Languages:
+### ‣ HTML5;
+### ‣ CSS3;
+## Methodology:
+### ‣ BEM;
+## Deployment instructions:
+### 1. You can open the website by clicking on the 'Go to Site' button at the very beginning of the Readme.
+### 2. To deploy a website on your local computer, you need to:
+#### ‣ Clone the repository to your local computer using the command:
+```bash
+# git clone https://github.com/KonstantinOkhlynin/LearnToLearn.git
+```
+#### ‣ Run the file `index.html`;
