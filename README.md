@@ -1,6 +1,6 @@
-   ![Header](https://github.com/KonstantinOkhlynin/KonstantinOkhlynin/blob/main/assets/Logo.svg)
-   [![Header](https://github.com/KonstantinOkhlynin/KonstantinOkhlynin/blob/main/assets/EnglishReadme.svg)](https://github.com/KonstantinOkhlynin/LearnToLearn/blob/master/README.EN.MD)
-   [![Header](https://github.com/KonstantinOkhlynin/KonstantinOkhlynin/blob/main/assets/GoToTheWebsiteRu.svg)](https://konstantinokhlynin.github.io/LearnToLearn)
+# Author: Konstantin Okhlynin
+# [**English Readme**](https://github.com/KonstantinOkhlynin/LearnToLearn/blob/master/README.EN.MD)
+# [**Go to website**](https://konstantinokhlynin.github.io/LearnToLearn)
 # Научиться учиться
 ### Мой самый первый веб-сайт. Был свёрстан на курсе Яндекс.Практикума по направлению веб-разработки. Сайт рассказывает о том, что люди всегда что-то учат,но учиться тоже надо уметь, и не все владеют данным навыком. На сайте приводятся различные техники, методы и принципы обучения, приводятся интересные факты.
 ## Цель 
