@@ -1,5 +1,5 @@
 # Author: Konstantin Okhlynin
-# [**Website**](https://konstantinokhlynin.github.io/LearnToLearn)
+# [**Website**](https://konstantinokhlynin.github.io/learn-to-learn)
 # Learn to learn
 ### My very first website. It was checked on the Yandex course.Workshop in the field of web development. The site says that people always learn something,but you also need to be able to learn, and not everyone knows this skill. The site provides various techniques, methods and principles of training, provides interesting facts.
 ## Goal
